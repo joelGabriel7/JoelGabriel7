@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Online Eats](https://onlineeatsrd.com/)
 
-- 🌱 I’m currently learning **C#, JS, React, Docker, and frontend development.**
+- 🌱 I’m currently learning **C#, JS, React,  and frontend development.**
 
 - 👯 I’m looking to collaborate on **Open-source projects involving Django REST Framework or FastAPI**
 
