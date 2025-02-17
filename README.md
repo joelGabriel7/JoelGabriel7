@@ -5,9 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=joelgabriel7&label=Profile%20views&color=0e75b6&style=flat" alt="joelgabriel7" />
 </p>
 
-- 🔭 I’m currently working on [Online Eats](https://onlineeatsrd.com/)
+- 🔭 I’m currently working on [Progressa Corporate Group](https://www.progressa.group/)
 
-- 🌱 I’m currently learning **C#, JS, React,  and frontend development.**
+- 🌱 I’m currently learning **JS, React,  and frontend development.**
 
 - 👯 I’m looking to collaborate on **Open-source projects involving Django REST Framework or FastAPI**
 
